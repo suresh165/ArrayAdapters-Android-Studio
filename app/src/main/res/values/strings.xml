@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArrayAdapters</string>
+    <string-array name="android_versio">
+        <item>Name : Suresh Chandra</item>
+        <item>Class : MCA</item>
+        <item>Roll no : 1900409</item>
+        <item>Address : Mathura</item>
+        <item>Project : Array_List</item>
+        <item>Programming : Java</item>
+
+
+
+    </string-array>
+</resources>
